@@ -1,0 +1,4 @@
+RESULTADO_<br> <font color="black"> PARMA003 10.128.4.28 OK! (200) 0.08s </font>
+<font color="black"> PARMA002 10.128.4.27 OK! (200) 0.00s 0.72 </font>
+<font color="black"> PARMA004 10.128.4.29 OK! (200) 0.00s 0.67 </font>
+_FIM
